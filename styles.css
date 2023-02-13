@@ -197,5 +197,6 @@ h2 {
 }
 
 .label:hover {
-  color: crimson
+  color: crimson;
+  transform: scale(1.5);
 }
